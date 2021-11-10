@@ -14,8 +14,25 @@ Triangulated Irregular Network -- TIN
         in the MATLAB workspace
 
         >>> x = [0, 5, ...]
+
+            x =
+            0
+            5
+            ...
+
         >>> y = [10, 7, ...]
+
+            y =
+            10
+            7
+            ...
+
         >>> z = [9915, 10040, ...]
+
+            z =
+            9915
+            10040
+            ...
 
         Then run TINFunction with x, y, z as inputs
 
