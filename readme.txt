@@ -38,5 +38,5 @@ Triangulated Irregular Network -- TIN
 
         >>> TINFunction(x, y, z)
 
-        This will give you a 'result.txt' file that can be imported into MLPQ and will
+        This will output a 'result.txt' file that can be imported into MLPQ and will
         give you a TIN table.
